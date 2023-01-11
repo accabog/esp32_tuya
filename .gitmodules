@@ -1,0 +1,4 @@
+[submodule "components/tuya/tuya-connect-kit-for-mqtt-embedded-c"]
+	path = components/tuya/tuya-connect-kit-for-mqtt-embedded-c
+	url = https://github.com/accabog/tuya-connect-kit-for-mqtt-embedded-c.git
+	branch = without-submodules
